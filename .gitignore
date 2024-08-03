@@ -1,0 +1,14 @@
+# Ignore credential and token files
+credentials.json
+token.pickle
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
